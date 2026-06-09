@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Bhumika Malekar
 
-<!--
-**bhumikamalekar/bhumikamalekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering student interested in solving real-world problems through technology.
 
-Here are some ideas to get you started:
+I am interested in understanding real-world challenges, learning the skills needed to solve them, and applying technology to build practical solutions. My focus is not only on learning tools and technologies, but also on understanding how they can be used to create meaningful value and solve real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+* Software Engineering
+* Full Stack Development
+* Problem Solving
+* Technology-Driven Solutions
+* Real-World Applications
+
+## Projects
+
+* Smart Placement Drive & Recruitment Management System
+
+## Current Focus
+
+Continuously expanding my technical knowledge, strengthening software development skills, and learning new technologies that can be applied to transform ideas into practical solutions.
