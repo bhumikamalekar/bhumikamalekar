@@ -6,15 +6,22 @@ I am interested in understanding real-world challenges, learning the skills need
 
 ## Areas of Interest
 
-* Software Engineering
-* Full Stack Development
-* Problem Solving
-* Technology-Driven Solutions
-* Real-World Applications
+- Software Engineering
+- Full Stack Development
+- Problem Solving
+- Technology-Driven Solutions
+- Real-World Applications
+
+## Tech Stack
+
+- **Backend:** Java, Spring Boot, Spring Security, Spring Data JPA, RESTful APIs
+- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript, Thymeleaf, jQuery
+- **Database & Tools:** MySQL, Git, GitHub, Maven
 
 ## Projects
 
-* Smart Placement Drive & Recruitment Management System
+- **[ShopSphere](https://github.com/bhumikamalekar/ShopSphere)** — Full-Stack E-Commerce & Store Management Platform built with Java 17, Spring Boot 3, Spring Security, MySQL, and Thymeleaf.
+- **[Smart Placement Drive & Recruitment Management System](https://github.com/bhumikamalekar/Placement-Hub)** — End-to-end campus recruitment and placement tracking web application.
 
 ## Current Focus
 
